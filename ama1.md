@@ -33,7 +33,7 @@ It helps developers collaborate, track changes, and maintain code versions.
 ## 4. Delete remote branch reference in local?
 
 ```bash
-git fetch --prune
+git push origin --delete branch_name
 ```
 
 This removes deleted remote branch references from the local repository.
