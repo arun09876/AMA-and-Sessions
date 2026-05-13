@@ -17,16 +17,16 @@ a.remove(10)
 
 ## 2. What is GitHub?
 
-:contentReference[oaicite:0]{index=0} is a cloud-based platform used to store and manage Git repositories online.  
+GitHub is a cloud-based platform used to store and manage Git repositories online.  
 It helps developers collaborate, track changes, and maintain code versions.
 
 ---
 
 ## 3. Difference between Git, GitHub, and GitLab?
 
-- :contentReference[oaicite:1]{index=1} → Version control system used locally.
-- :contentReference[oaicite:2]{index=2} → Online hosting platform for Git repositories.
-- :contentReference[oaicite:3]{index=3} → Git hosting platform with DevOps and CI/CD support.
+- Git → Version control system used locally.
+- GitHub → Online hosting platform for Git repositories.
+- GitLab → Git hosting platform with DevOps and CI/CD support.
 
 ---
 
