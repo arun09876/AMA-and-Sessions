@@ -36,7 +36,7 @@ It helps developers collaborate, track changes, and maintain code versions.
 git push origin --delete branch_name
 ```
 
-This deletes remote branch references from the local repository.
+deletes the actual branch from the remote repository GitHub
 
 ---
 
